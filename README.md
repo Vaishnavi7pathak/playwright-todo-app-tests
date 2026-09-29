@@ -9,11 +9,11 @@ State Verification & Assertions
 
 🛠️ Tech Stack
 Automation Tool: Playwright
-Language: JavaScript
+Language: Typescript
 Test Runner: Playwright Test
 Reporting: Playwright HTML Reporter
 📂 Test Scenarios Covered
-The project includes atomic tests (todo.spec.js) covering:
+The project includes atomic tests (todo.spec.ts) covering:
 
 ✅ Task Creation: Adding multiple Todo items dynamically
 ✅ Task Management: Marking items as completed
